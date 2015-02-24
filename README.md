@@ -9,9 +9,11 @@ A first timer experiment with Python.
 5. follow on screen instructions.
 
 ## Sending emails as other people
-Pretend you're someone else when sending emails
+### How to
+1. Open program.
+2. Pretend you're someone else when filling fields.
 
-## Ethics
+### Ethics
 There are issues.
 
 ## TODO
