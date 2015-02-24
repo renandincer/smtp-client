@@ -13,3 +13,6 @@ Pretend you're someone else when sending emails
 
 ## Ethics
 There are issues.
+
+## TODO
+- [ ] support ssl
