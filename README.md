@@ -7,14 +7,3 @@ A first timer experiment with Python.
 3. `cd stmp-client`
 4. `pyhton smtp.py`
 5. follow on screen instructions.
-
-## Sending emails as other people
-### How to
-1. Open program.
-2. Pretend you're someone else when filling fields.
-
-### Ethics
-There are issues.
-
-## TODO
-- [ ] support ssl
